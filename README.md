@@ -8,11 +8,10 @@
   </a>
 </div>
 
-# 42Journey
+# 42Journey - Born2Code! :computer: :grin:
 A continually updated collection of links to the different projects I will be undertaking as a student at 42Madrid.
-Born2Code! :computer: :grin:
 
-⚠️ If you are a 42 student, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference ⚠️
+❗ If you are a 42 student, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference.
 ❗ Do not copy something that you don´t understand. ❗
 
 ## Main Stats
@@ -50,29 +49,26 @@ Born2Code! :computer: :grin:
 
 ### Completed 42Piscine Projects
 
-SHELL
-shell-00
-shell-01
-C PROJECTS
-c00
-c01
-c02
-c03
-c04
-c05
-c06
-c07
-c08
-c09
-c10
-c11
-c12
-c13
-RUSH
-rush-00
-rush-01
-rush-02
-BSQ
+|  Nº  | Project | Description | Topics | Finished |
+| :--: | :-----: | :---------: | :----: | :------: |
+| - | SHELL | *This is the first module of your C piscine.* *You will discover how to use your environment and manipulate bash.* | Imperative Programming, Rigor, Unix, Git | August 2023 |
+| 1 | Shell00 | Z, testShell00, exo2.tar, id_rsa_pub, midLS, git_commit.sh, git_ignore.sh, diff, clean, ft_magic | Imperative Programming, Rigor, Unix, Git | August 2023 |
+| 2 | Shell01 | *This is the second module of your C Piscine. In it, you will delve deeper into how to use your environment and control bash.* | C, Makefile, Library | August 2023 |
+| - | C PROJECTS | *Your very first own library* | C, Makefile, Library | August 2023 |
+| 3 | C00 | *Your very first own library* | C, Makefile, Library | August 2023 |
+| 4 | C01 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 5 | C02 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 6 | C03 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 7 | C04 | *Your very first own library* | C, Makefile, Library | August 2023 |
+| 8 | C05 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 9 | C06 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| - | RUSH | *Your very first own library* | C, Makefile, Library | August 2023 |
+| 10 | Rush00 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 11 | Rush01 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 12 | Rush02 | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| - | BSQ | *Your very first own library* | C, Makefile, Library | August 2023 | 
+| 13 | BSQ | *Your very first own library* | C, Makefile, Library | August 2023 |
+
 
 ## FAQ
 If you have any questions feel free to open an issue or reach me on slack under `issierra`
