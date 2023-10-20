@@ -11,10 +11,10 @@
 # 42Journey - Born2Code! :computer: :grin:
 A continually updated collection of links to the different projects I will be undertaking as a student at 42Madrid.
 
-❗ If you are a 42 student, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference.
-❗ Do not copy something that you don´t understand. ❗
+❗ If you are a 42 student, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference.  
+❗ Do not copy something that you don´t understand.
 
-## Main Stats
+<!-- ## Main Stats
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/siemeris/42Journey?color=green" />
@@ -22,55 +22,54 @@ A continually updated collection of links to the different projects I will be un
     <img src="https://badgen.net/badge/Born2Code/issierra/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
   <img src="https://img.shields.io/github/last-commit/siemeris/42Journey" />
-</div>
+</div> -->
 
 ## Project List
 
 ### Completed and Upcoming Common Core Projects
 
-|  Nº  | Project | Description | Topics | Finished | Activity |
-| :--: | :-----: | :---------: | :----: | :------: | :------: |
-| 1 | libft | *Your very first own library* | C, Makefile, Library | April 2021 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/libft) |
-| 2 | ft_printf | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/ft_printf) |
-| 3 | get_next_line | *Reading a line on a *fd* is way too tedious* | C, Reading | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/get_next_line) |
-| 4 | born2beroot | *The wonderful world of virtualization* | Shell, Virtualization | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/born2beroot) |
-| 5 | so_long | *And thanks for all the fish!* | C, Makefile, UX, Videogame | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/so_long) |
+|  Nº  | Project | Description | Skills | Finished | 
+| :--: | :-----: | :---------: | :----: | :------: | 
+| 1 | [libft](https://github.com/siemeris/libft_clone) | *Your very first own library* | C, Makefile, Library | Sep 2023 |
+| 2 | get_next_line | *Reading a line on a *fd* is way too tedious* | C, Reading | Ongoing | 
+| 3 | ft_printf | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | - | 
+| 4 | born2beroot | *The wonderful world of virtualization* | Shell, Virtualization | - | 
+| 5 | so_long | *And thanks for all the fish!* | C, Makefile, UX, Videogame | - | 
 | 6 | ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* | - | - |
-| 7 | push_swap | *Because swap_push isn’t as natural* | C, Makefile, Sorting | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/push_swap) |
-| 8 | pipex | *Go dance salsa somewhere :)* | C, Makefile, Fork | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/pipex) |
-| 9 | philosophers | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/philosophers) |
-| 10 | minishell | *As beautiful as a shell* | C, Makefile, Shell | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/minishell) |
+| 7 | push_swap | *Because swap_push isn’t as natural* | C, Makefile, Sorting | - | 
+| 8 | pipex | *Go dance salsa somewhere :)* | C, Makefile, Fork | - | 
+| 9 | philosophers | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | - | 
+| 10 | minishell | *As beautiful as a shell* | C, Makefile, Shell | - | 
 | 11 | ``exam-03`` | *Rank 3 exam* | C, exam, *mini_paint*, *micro_paint* | - | - |
-| 12 | cub3d | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/cub3d) |
+| 12 | cub3d | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | - | 
 | 13 | ``exam-04`` | *Rank 4 exam* | C, Makefile, exam, *minishell*, *microshell* | - | - |
-| 14 | CPP Modules | *Lots of basic stuff* | C++, Makefile | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/CPP-Modules) | [``6/9``](https://gitlab.com/siemeris/CPP-Modules) |
-| 15 | ft_irc | *Intenet Relay Chat* | C, C++, Makefile, irc | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/ft_irc) | - |
-| 16 | NetPractice | *Fred, there is an unplugged Ethernet cable...* | Networking | - | ![GitHub Last Commit](https://img.shields.io/github/last-commit/siemeris/NetPractice) |
+| 14 | CPP Modules | *Lots of basic stuff* | C++, Makefile | - | 
+| 15 | ft_irc | *Intenet Relay Chat* | C, C++, Makefile, irc | - | 
+| 16 | NetPractice | *Fred, there is an unplugged Ethernet cable...* | Networking | - |
 
 ### Completed 42Piscine Projects
 
-|  Nº  | Project | Description | Topics | Finished |
+|  Nº  | Project | Description | Skills | Finished |
 | :--: | :-----: | :---------: | :----: | :------: |
-| - | SHELL | *This is the first module of your C piscine.* *You will discover how to use your environment and manipulate bash.* | Imperative Programming, Rigor, Unix, Git | August 2023 |
-| 1 | Shell00 | Z, testShell00, exo2.tar, id_rsa_pub, midLS, git_commit.sh, git_ignore.sh, diff, clean, ft_magic | Imperative Programming, Rigor, Unix, Git | August 2023 |
-| 2 | Shell01 | *This is the second module of your C Piscine. In it, you will delve deeper into how to use your environment and control bash.* | C, Makefile, Library | August 2023 |
-| - | C PROJECTS | *Your very first own library* | C, Makefile, Library | August 2023 |
-| 3 | C00 | *Your very first own library* | C, Makefile, Library | August 2023 |
-| 4 | C01 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 5 | C02 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 6 | C03 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 7 | C04 | *Your very first own library* | C, Makefile, Library | August 2023 |
-| 8 | C05 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 9 | C06 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| - | RUSH | *Your very first own library* | C, Makefile, Library | August 2023 |
-| 10 | Rush00 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 11 | Rush01 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 12 | Rush02 | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| - | BSQ | *Your very first own library* | C, Makefile, Library | August 2023 | 
-| 13 | BSQ | *Your very first own library* | C, Makefile, Library | August 2023 |
+|  | SHELL |  |  |  |  |
+| 1 | [Shell00](https://github.com/siemeris/C-Piscine/tree/main/sh00) | *This is the first module of your C piscine.* *You will discover how to use your environment and manipulate bash.* | Imperative Programming, Rigor, Unix, Git | August 2023 |
+| 2 | [Shell01](https://github.com/siemeris/C-Piscine/tree/main/sh01) | *This is the second module of your C Piscine. In it, you will delve deeper into how to use your environment and control bash.* | Imperative Programming, Rigor, Unix, Git     | August 2023 |
+|  | C PROJECTS |  |  |  |
+| 3 | [C00](https://github.com/siemeris/C-Piscine/tree/main/C00) | *This module is an introduction to C programming. You will learn how the 'write' function works and also how loops function.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 |
+| 4 | [C01](https://github.com/siemeris/C-Piscine/tree/main/C01) | *This module is an introduction to C programming. You will enhance your skills in using loops beyond what you learned in the previous module* | C, Imperative Programming, Unix, Rigor, Algorithms & AI| August 2023 | 
+| 5 | [C02](https://github.com/siemeris/C-Piscine/tree/main/C02) | *This module is an introduction to C programming. In this module, you will learn how to enhance your functions. You will need to establish controls on your parameters.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 6 | [C03](https://github.com/siemeris/C-Piscine/tree/main/C03) | *This module is an introduction to C programming. In this module, you will learn how to manipulate a string* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 7 | [C04](https://github.com/siemeris/C-Piscine/tree/main/C04) | *This module is an introduction to C programming. In this module, you will continue to work with strings and learn how to manipulate integers.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 |
+| 8 | [C05](https://github.com/siemeris/C-Piscine/tree/main/C05) | *This module is an introduction to C programming. In this module, you will have to implement small algorithms using recursive programming.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 9 | [C06](https://github.com/siemeris/C-Piscine/tree/main/C06) | *This module is an introduction to C programming. In this module, you will learn how to use C's arguments in your programs, not just in your functions.* | C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+|  | RUSH |  |  |  |
+| 10 | [Rush00](https://github.com/siemeris/C-Piscine/tree/main/rush00) | You must create a function that takes an x and y int argument and display on the screen a rectangle of x characters | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 11 | [Rush01](https://github.com/siemeris/C-Piscine/tree/main/rush01) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+| 12 | [Rush02](https://github.com/siemeris/C-Piscine/tree/main/rush02) | *In this rush, you will face teamwork! It's an ideal moment to share what you know.* | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 | 
+|  | BSQ |  |  | | 
+| 13 | [BSQ](https://github.com/siemeris/C-Piscine/tree/main/bsq) | BSQ : Biggest Square -> find the biggest empty square in a NxN grid | Group & interpersonal, C, Imperative Programming, Unix, Rigor, Algorithms & AI | August 2023 |
 
 
 ## FAQ
 If you have any questions feel free to open an issue or reach me on slack under `issierra`
- 
-### [You can check my Intra profile here](https://profile.intra.42.fr/users/issierra)
+
