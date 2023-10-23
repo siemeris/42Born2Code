@@ -8,7 +8,7 @@
   </a>
 </div>
 
-# 42Journey - Born2Code! :computer:
+# 42 - Born2Code! :computer:
 A continually updated collection of links to the different projects I will be undertaking as a student at 42Madrid.
 
 ❗ If you are a 42 student, I strongly suggest not to copy my code. Instead, I encourage you to use it as a reference.  
