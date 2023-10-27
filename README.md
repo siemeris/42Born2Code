@@ -30,7 +30,7 @@ A continually updated collection of links to the various projects I completed as
 |  Nº  | Project | Description | Skills | Finished | 
 | :--: | :-----: | :---------: | :----: | :------: | 
 | 1 | [libft](https://github.com/siemeris/libft_clone) | *Your very first own library* | C, Makefile, Library | Sep 2023 |
-| 2 | get_next_line | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | Ongoing | 
+| 2 | [get_next_line](https://github.com/siemeris/get_next_line) | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | Oct 2023 | 
 | 3 | ft_printf | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | Ongoing | 
 | 4 | born2beroot | *The wonderful world of virtualization* | Shell, Virtualization | Ongoing | 
 
