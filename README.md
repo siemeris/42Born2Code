@@ -30,14 +30,17 @@ A continually updated collection of links to the various projects I completed as
 |  Nº  | Project | Description | Skills | Finished | 
 | :--: | :-----: | :---------: | :----: | :------: | 
 | 1 | [libft](https://github.com/siemeris/libft_clone) | *Your very first own library* | C, Makefile, Library | Sep 2023 |
-| 2 | [get_next_line](https://github.com/siemeris/get_next_line) | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | Oct 2023 | 
-| 3 | ft_printf | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | Ongoing | 
-| 4 | born2beroot | *The wonderful world of virtualization* | Shell, Virtualization | Ongoing | 
+| 2 | [get_next_line](https://github.com/siemeris/get_next_line) | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | Oct 2023 |  
+| 3 | [Born2BeRoot](https://github.com/siemeris/Born2BeRoot) | *The wonderful world of virtualization* | Shell, Virtualization, Linux | Nov 2023 |
+| 4 | [ft_printf](https://github.com/siemeris/ft_printf) | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | Nov 2023 | 
+| 5 | so_long | *And thanks for all the fish!* | C, Makefile, UX, Videogame | Ongoing | 
+| 6 | push_swap | *Because swap_push isn’t as natural* | C, Makefile, Sorting | Ongoing | 
+| 7 | ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* | - |  
 
 <!--
-| 5 | so_long | *And thanks for all the fish!* | C, Makefile, UX, Videogame | - | 
-| 6 | ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* | - | - |
-| 7 | push_swap | *Because swap_push isn’t as natural* | C, Makefile, Sorting | - | 
+
+
+
 | 8 | pipex | *Go dance salsa somewhere :)* | C, Makefile, Fork | - | 
 | 9 | philosophers | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | - | 
 | 10 | minishell | *As beautiful as a shell* | C, Makefile, Shell | - | 
@@ -49,7 +52,7 @@ A continually updated collection of links to the various projects I completed as
 | 16 | NetPractice | *Fred, there is an unplugged Ethernet cable...* | Networking | - |
 -->
 
-### Completed 42Piscine Projects
+### Completed 42Piscine Projects - August 2023
 
 |  Nº  | Project | Description | Skills | Finished |
 | :--: | :-----: | :---------: | :----: | :------: |
