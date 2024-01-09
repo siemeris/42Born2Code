@@ -27,18 +27,21 @@ A continually updated collection of links to the various projects I completed as
 
 ### Completed and Upcoming Common Core Projects
 
-|  Nº  | Project | Description | Skills | Finished | 
-| :--: | :-----: | :---------: | :----: | :------: | 
-| 1 | [libft](https://github.com/siemeris/libft_clone) | *Your very first own library* | C, Makefile, Library | Sep 2023 |
-| 2 | [get_next_line](https://github.com/siemeris/get_next_line) | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | Oct 2023 |  
-| 3 | [Born2BeRoot](https://github.com/siemeris/Born2BeRoot) | *The wonderful world of virtualization* | Shell, Virtualization, Linux | Nov 2023 |
-| 4 | [ft_printf](https://github.com/siemeris/ft_printf) | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | Nov 2023 | 
-| 5 | [so_long](https://github.com/siemeris/so_long) | *And thanks for all the fish!* | C, Makefile, UX, Videogame | Dec 2023 | 
-| 6 | [push_swap](https://github.com/siemeris/push_swap) | *Because swap_push isn’t as natural* | C, Makefile, Sorting | Dec 2023 | 
-| 7 | [pipex](https://github.com/siemeris/pipex) | *This project will let you discover in detail the pipe UNIX mechanism that you already know by using it in your program.* | C, UNIX, Logic, Imperative Programming | Ongoing |
-| 8 | ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* | Ongoing |  
-| 9 | [philosophers](https://github.com/siemeris/philosophers) | *You will learn the basics of threading a process and you will discover mutexes.* | C, UNIX, Logic, Imperative Programming, Rigor | Next |
-| 10 | [minishell](https://github.com/siemeris/minishell)| *This project is about creating a simple shell. You will learn a lot about processes and file descriptors.* | C, UNIX, Logic, Imperative Programming, Rigor | Next | 
+Grades are given to every project. 100 is the top score for the mandatory part of the project. Points between 100 and 125 are given for bonuses.
+
+|  Nº  | Project | Description | Skills | Grade | Finished | 
+| :--: | :-----: | :---------: | :----: | :------: | :------: |
+| 1 | [libft](https://github.com/siemeris/libft_clone) | *Your very first own library* | C, Makefile, Library | 112 | Sep 2023 |
+| 2 | [get_next_line](https://github.com/siemeris/get_next_line) | *Reading a line on a *fd* is way too tedious* | C, Read, Unix logic | 125 | Oct 2023 |  
+| 3 | [Born2BeRoot](https://github.com/siemeris/Born2BeRoot) | *The wonderful world of virtualization* | Shell, Virtualization, Linux | 125 | Nov 2023 |
+| 4 | [ft_printf](https://github.com/siemeris/ft_printf) | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | 100 | Nov 2023 | 
+| 5 | [so_long](https://github.com/siemeris/so_long) | *And thanks for all the fish!* | C, Makefile, UX, Videogame | 125 | Dec 2023 | 
+| 6 | [push_swap](https://github.com/siemeris/push_swap) | *Because swap_push isn’t as natural* | C, Makefile, Sorting | 125 | Dec 2023 | 
+| 7 | [pipex](https://github.com/siemeris/pipex) | *This project will let you discover in detail the pipe UNIX mechanism that you already know by using it in your program.* | C, UNIX, Logic, Imperative Programming | - | Ongoing |
+| 8 | ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* | - | Ongoing |  
+| 9 | [philosophers](https://github.com/siemeris/philosophers) | *You will learn the basics of threading a process and you will discover mutexes.* | C, UNIX, Logic, Imperative Programming, Rigor | - | Next |
+| 10 | [minishell](https://github.com/siemeris/minishell)| *This project is about creating a simple shell. You will learn a lot about processes and file descriptors.* | C, UNIX, Logic, Imperative Programming, Rigor | - | Next | 
+
 
 <!--
 
